@@ -25,7 +25,7 @@ SECRET_KEY = '&041rb8+m3pd$f47l-&^-(6d2y$tz-%e55+vyq^l87=bnraj=7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['notesappbytanishqg5325.herokuapp.com']
 
 
 # Application definition
